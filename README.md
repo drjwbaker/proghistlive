@@ -10,4 +10,4 @@ Windows users, see the section entitled 'Installing Git Bash' in the Programming
 
 ### Licence
 
-All content in this repository is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+All content in this repository is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
