@@ -21,7 +21,15 @@ ______
 In order that you get the most from Programming Historian Live, we request that you both bring your own laptop with you and to install some software onto it beforehand. *Note that we will not provide laptops. Nevertheless, not all sessions will require the use of a laptop throughout so you can follow along without one. If you do not bring your own laptop, you may wish to see if someone is willing to share for those sections that are hands-on.*
 
 Each session leader has provided set-up instructions below. These cover Windows, OS X, and Linux systems. If you have any trouble completing the set-up instructions for a particular session, please [log an issue](https://github.com/drjwbaker/proghistlive/issues) and we will attempt to resolve it.
+______
 
+### XSLT
+
+This session will demonstrate how to create XSL style sheets to transform your XML data into different forms, depending on the information you need and how you want it to be displayed.
+
+You will need no special software for this session; any plain-text editor (such as notepad) will work. If you find your standard plain-text editor difficult to read (black on white), consider downloading the [Atom text editor](https://atom.io/), which allows a range of colour schemes to suit your vision. You can also use Komodo Edit (suggested below)
+
+To display your transformed documents, you will need to use either [Internet Explorer](http://windows.microsoft.com/en-GB/internet-explorer/download-ie) or [Firefox](https://www.mozilla.org/en-US/firefox/new/), as Chrome and Safari browsers may (depending on your setup) have security features that prevent local transformations. Therefore, please ensure you have one of these two browsers on your laptop if you wish to test out your encoding on the day.
 ______
 
 ### Regular expressions
