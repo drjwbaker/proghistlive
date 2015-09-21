@@ -24,6 +24,16 @@ Each session leader has provided set-up instructions below. These cover Windows,
 
 ______
 
+### XSLT
+ 
+This session will demonstrate how to create XSL style sheets to transform your XML data into different forms, depending on the information you need and how you want it to be displayed.
+ 
+You will need no special software for this session; any plain-text editor (such as notepad) will work. If you find your standard plain-text editor difficult to read (black on white), consider downloading the [Atom text editor](https://atom.io/), which allows a range of colour schemes to suit your vision. You can also use Komodo Edit, detailed below.
+ 
+To display your transformed documents, you will need to use either [Internet Explorer](http://windows.microsoft.com/en-GB/internet-explorer/download-ie) or [Firefox](https://www.mozilla.org/en-US/firefox/new/), as Chrome and Safari browsers may (depending on your setup) have security features that prevent local transformations. Therefore, please ensure you have one of these two browsers on your laptop if you wish to test out your encoding on the day.
+
+______
+
 ### Regular expressions
 
 If you are bringing a laptop you might like to download the free, cross-platform editor Komodo Edit (http://komodoide.com/komodo-edit/) for this session. However if you already have an editor that you are comfortable using and that allows regular expressions in its find-and-replace tool then it’s preferable to stay with the editor you know. The exercises can also be done on a web interface or on paper, so you are also welcome to bring a tablet or a notebook and pen for this session.
