@@ -42,7 +42,7 @@ ______
 
 ### AntConc
 
-AntConc is a corpus analysis toolkit for concordancing and text analysis. You can download it at from the [AntConc Homepage](http://www.laurenceanthony.net/software/antconc/) where you will also find installation instructions.
+AntConc is a corpus analysis toolkit for concordancing and text analysis. You can download it from the [AntConc Homepage](http://www.laurenceanthony.net/software/antconc/) where you will also find installation instructions.
 
 ______
 
