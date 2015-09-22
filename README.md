@@ -9,7 +9,7 @@ ______
 - 1200 xslt (Melodee Beals)
 - 1300 Lunch
 - 1330 Regular Expressions (Jonathan Blaney)
-- 1430 Antconc (Anouk Lang)
+- 1430 AntConc (Anouk Lang)
 - 1530 Shell (James Baker)
 - 1630 wget and automated downloading (Peter Webster)
 - 1800 Close
@@ -37,6 +37,12 @@ ______
 ### Regular expressions
 
 If you are bringing a laptop you might like to download the free, cross-platform editor Komodo Edit (http://komodoide.com/komodo-edit/) for this session. However if you already have an editor that you are comfortable using and that allows regular expressions in its find-and-replace tool then it’s preferable to stay with the editor you know. The exercises can also be done on a web interface or on paper, so you are also welcome to bring a tablet or a notebook and pen for this session.
+
+______
+
+### AntConc
+
+AntConc is a corpus analysis toolkit for concordancing and text analysis. You can download it at from the [AntConc Homepage](http://www.laurenceanthony.net/software/antconc/) where you will also find installation instructions.
 
 ______
 
