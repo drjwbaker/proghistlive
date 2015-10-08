@@ -50,6 +50,8 @@ ______
 
 Windows users, see the section entitled 'Installing Git Bash' in the Programming Historian lesson [*Introduction to the Bash Command Line*](http://programminghistorian.org/lessons/intro-to-bash). OS X and Linux users, simply make sure you know how to find your 'Terminal'.
 
+Download the data for the session from [Dropbox](https://www.dropbox.com/sh/iyrtanzmik311dn/AAAmOlqrT_YdC5jxvonKIPRFa?dl=0). Extract the 'data' folder onto your desktop. Any problems, please raise an [issue](https://github.com/drjwbaker/proghistlive/issues).
+
 ______
 
 #### Licence
