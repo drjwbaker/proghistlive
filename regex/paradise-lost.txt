@@ -13,3 +13,15 @@ His proud imaginations thus displaid. [ 10 ]
 
 [http://www.dartmouth.edu/~milton/reading_room/pl/book_2/text.shtml]
 
+NOTE: any method of getting the required results is fine. For example, you can add to or manipulate the text (this is often helpful) or do several regexes (this is often easier than doing everything in one hit).
+
+1. Find all the numbers
+2. Find all words which begin with h or H
+3. Find any lines that end with a vowel
+4. Find anything that is not a letter, a number or a space
+5. Find any words that begin with S/s and end with s
+6. Find any words with exactly five characters
+7. Delete the line numbers and square brackets around them.
+8. Find any capitalised words, apart from beginnings of lines
+9. Find two consecutive capitalised words
+10. Add a full stop at the end of all the lines, unless they already have punctuation.

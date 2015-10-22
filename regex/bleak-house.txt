@@ -4,3 +4,15 @@ London. Michaelmas term lately over, and the Lord Chancellor sitting in Lincoln'
 
 [http://www.gutenberg.org/files/1023/1023-h/1023-h.htm]
 
+1. Find all the capitalised words which do not begin sentences.
+2. Transpose words separated by a comma (eg "Horses, scarcely" > "scarcely, Horses")
+3. Add a paragraph tag: <para>...</para> around the whole paragraph.
+4. Add a sentence tag: <sentence>...</sentence> around every sentence.
+5. Find parenthetical clauses, i.e. anything between commas or brackets.
+6. Add a line break after each sentence.
+7. Find the longest word in the paragraph (under whatever definition of 'word' you prefer).
+8. Find all words ending in s, then delete the s.
+9. Replace all punctuation with a hash.
+10. Delete from 'Megalosaurus' to the second instance of 'crust', inclusive.
+11. Find all words that are five letters long.
+12. Find any words which are repeated subsequently in the paragraph.

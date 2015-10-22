@@ -1,0 +1,17 @@
+Introductory regex questions
+
+
+1. How would you match a number at the beginning of a line? ______________
+
+
+2. How would you match t, u, v, w, x, y or z at the end of a line? _______________
+
+
+3. How would you match any single character with a space either side?  _____________
+
+
+4. How would you match any whole line that has at least one character in it?  _____________
+
+
+5. How would you match any punctuation?  ______________________
+
