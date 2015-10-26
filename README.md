@@ -1,7 +1,14 @@
+# Post-Event
+
+Programming Historian Live took place on 19 October 2015. A reflective blog on the event written by James Baker is one [his blog](http://cradledincaricature.com/2015/10/21/programming-historian-live/).
+
+Since the event, the presenters have uploaded slides, notes, and hand-outs they provided used on the day. We hope you are able to build on the materials to host comparable events. If you are interested in the project team running a Programming Historian Live event at your institution, please contact [James Baker](https://github.com/drjwbaker) to discuss.
+
+______
 # Information for Attendees
 
 ______
-## Preliminary Timetable
+## Timetable
 
 - 1030 Arrival and setup
 - 1100 Welcome
