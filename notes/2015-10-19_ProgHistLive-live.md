@@ -1,4 +1,4 @@
-# Notes (by James from Programming Historian Live, 19 October 2015, British Library
+# Notes (by James) from Programming Historian Live, 19 October 2015, British Library
 
 **Live notes, so an incomplete, partial record of what actually happened. As I was following along with much of the demonstration/training on show, notes are particularly patchy**
 
